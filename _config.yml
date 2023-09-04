@@ -3,8 +3,8 @@ title: Victor Hugo
 email: victorhugo@webinit.io
 url:
 description: "Personal website to promote my business and portfolio"
-keywords: "your keywords, separated by commas"
-skills: "Founder of Initio - Fullstack Software Developer - Philosopher"
+keywords: "Web Developer, Custom Website, Freelance"
+skills: 'Fullstack Software Developer'
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -25,35 +25,37 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: AA96DA #00539CRoyalBlue #BabyBlue408EC6 #PeachEEA47F #Indigo1E2761 #LightPurpleAA96DA
+  #Charcoal101820 #00539CRoyalBlue #BabyBlue408EC6 #PeachEEA47F #Indigo1E2761 #LightPurpleAA96DA
+  #Blue2F3C7E #scarletB85042
+  primary: 101820
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 00539C
   secondary-dark: 1E2761 #A2122F
 
 # Footer settings
 footer:
-  copyright:
-  location:
-  social:
+  copyright: Ab initio
+  location: Dallas, Tx
+  social: Find me on Internettown
   credits:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
+  - title: quora
     url: http://twitter.com/jekyllrb
-  - title: facebook
+  - title: twitter
     url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
+  - title: medium
     url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 3130 Lombardy Ln APT 2026
+  - line: Dallas, TX, 75220
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
