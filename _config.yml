@@ -34,7 +34,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Ab initio
+  copyright: INITIUM
   location: Dallas, Tx
   social: Find me on Internettown
   credits:
@@ -58,7 +58,7 @@ address:
   - line: Dallas, TX, 75220
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Follow me on <a href="https://nextdoor.com/">Nextdoor</a>'
 
 # Build settings
 markdown: kramdown
