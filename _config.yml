@@ -1,5 +1,5 @@
 # Site settings
-title: Victor Hugo
+title: Victor Hugo Pena
 email: victorhugo@webinit.io
 url:
 description: "Personal website to promote my business and portfolio"
@@ -41,13 +41,13 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: quora
-    url: http://twitter.com/jekyllrb
-  - title: twitter
+  - title: google
     url:
-  - title: stack-overflow
+  - title: whatsapp
+    url:
+  - title: facebook
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: medium
+  - title: linkedin
     url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
