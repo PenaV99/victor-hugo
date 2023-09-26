@@ -12,7 +12,6 @@
 .fa-solid,
 .far,
 .fa-regular,
-.fal,
 .fa-light,
 .fat,
 .fa-thin,
@@ -38,7 +37,7 @@
   font-size: 3em; }
 
 .fa-4x {
-  font-size: 4em; }
+.fal,
 
 .fa-5x {
   font-size: 5em; }
@@ -254,6 +253,7 @@
     transition-delay: 0s;
     transition-duration: 0s; } }
 
+  font-size: 4em; }
 @-webkit-keyframes fa-beat {
   0%, 90% {
     -webkit-transform: scale(1);
@@ -6355,8 +6355,9 @@ readers do not read off random characters that represent icons */
   white-space: nowrap;
   border-width: 0; }
 :root, :host {
-  --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands"; }
+  --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands";
 
+/*Socials*/
 @font-face {
   font-family: 'Font Awesome 6 Brands';
   font-style: normal;

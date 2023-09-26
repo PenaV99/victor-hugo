@@ -1,10 +1,10 @@
 # Site settings
-title: Victor Hugo Pena
+title: "Victor Hugo"
 email: victorhugo@webinit.io
 url:
 description: "Personal website to promote my business and portfolio"
 keywords: "Web Developer, Custom Website, Freelance"
-skills: 'Fullstack Software Developer'
+skills: '-Fullstack Software Developer-'
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -36,12 +36,12 @@ color:
 footer:
   copyright: INITIUM
   location: Dallas, Tx
-  social: Find me on Internettown
+  social: Find me on Internet town
   credits:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: google
+  - title: apple
     url:
   - title: whatsapp
     url:
